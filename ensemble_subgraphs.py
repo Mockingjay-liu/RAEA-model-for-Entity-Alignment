@@ -194,7 +194,7 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', strategy='pre_weighted')
         get_hits(sim_sum, device=device)
         return
 
-    def svm_ensemble(train_sim_path_list, valid_sim_path_list, test_sim_path_list, T=False):
+    def svm_ensemble(train_sim_path_list, valid_sim_path_list, test_sim_path_list):
         positive_data = []  # shape = [sim_num, size]
         negative_data = []  # shape = [sim_num, size * ratio]
         sim_num = len(train_sim_path_list)
@@ -216,8 +216,6 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', strategy='pre_weighted')
         valid_sims = []
         for sim_path in tqdm(valid_sim_path_list, desc='Load valid sims'):
             sim = np.load(sim_path)
-            if T:
-                sim = sim.T
             valid_sims.append(np.expand_dims(sim, -1))
         valid_sims = np.concatenate(valid_sims, axis=-1)  # shape = [size, size, sim_num]
 
@@ -256,8 +254,7 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', strategy='pre_weighted')
     train_sim_path_list = ["./log/grid_search_%s_%s/train_sim.npy" % (model, data_set) for model in model_name_list]
     valid_sim_path_list = ["./log/grid_search_%s_%s/valid_sim.npy" % (model, data_set) for model in model_name_list]
     test_sim_path_list = ["./log/grid_search_%s_%s/test_sim.npy" % (model, data_set) for model in model_name_list]
-    svm_ensemble(train_sim_path_list, valid_sim_path_list, test_sim_path_list, T=False)
-    svm_ensemble(train_sim_path_list, valid_sim_path_list, test_sim_path_list, T=True)
+    svm_ensemble(train_sim_path_list, valid_sim_path_list, test_sim_path_list)
 
 
 
