@@ -26,33 +26,22 @@ def load_partial_sim(sim_path, standardization=True):
     return sim, sim_matrix.shape
 
 
-def load_sim_matrices(data_set, model_name_list, load_hard=True):
+def load_sim_matrices(data_set, model_name_list):
     train_sims = []
     valid_sims = []
     test_sims = []
     data_set = data_set.split('/')[-1]
 
     for model_name in tqdm(model_name_list):
-        if load_hard:
-            train_sim_path = "./log/grid_search_hard_%s_%s/train_sim.npy" % (model_name, data_set)
-            train_sim = np.load(train_sim_path)
-            train_sims.append(train_sim)
-            valid_sim_path = "./log/grid_search_hard_%s_%s/valid_sim.npy" % (model_name, data_set)
-            valid_sim = np.load(valid_sim_path)
-            valid_sims.append(valid_sim)
-            test_sim_path = "./log/grid_search_hard_%s_%s/test_sim.npy" % (model_name, data_set)
-            test_sim = np.load(test_sim_path)
-            test_sims.append(test_sim)
-        else:
-            train_sim_path = "./log/grid_search_%s_%s/train_sim.npy" % (model_name, data_set)
-            train_sim = np.load(train_sim_path)
-            train_sims.append(train_sim)
-            valid_sim_path = "./log/grid_search_%s_%s/valid_sim.npy" % (model_name, data_set)
-            valid_sim = np.load(valid_sim_path)
-            valid_sims.append(valid_sim)
-            test_sim_path = "./log/grid_search_%s_%s/test_sim.npy" % (model_name, data_set)
-            test_sim = np.load(test_sim_path)
-            test_sims.append(test_sim)
+        train_sim_path = "./log/grid_search_%s_%s/train_sim.npy" % (model_name, data_set)
+        train_sim = np.load(train_sim_path)
+        train_sims.append(train_sim)
+        valid_sim_path = "./log/grid_search_%s_%s/valid_sim.npy" % (model_name, data_set)
+        valid_sim = np.load(valid_sim_path)
+        valid_sims.append(valid_sim)
+        test_sim_path = "./log/grid_search_%s_%s/test_sim.npy" % (model_name, data_set)
+        test_sim = np.load(test_sim_path)
+        test_sims.append(test_sim)
     return train_sims, valid_sims, test_sims
 
 
@@ -85,7 +74,7 @@ def generate_data(sims, ratio):
     return data, label
 
 
-def ensemble_sims_with_svm(train_sims, valid_sims, test_sims, hits_1_weights, device, mode='avg'):
+def ensemble_sims_with_svm(train_sims, valid_sims, test_sims, hits_1_weights, device, strategy='pre_weighted'):
     set_random_seed()
 
     def sim_standardization2(sim):
@@ -109,10 +98,10 @@ def ensemble_sims_with_svm(train_sims, valid_sims, test_sims, hits_1_weights, de
     valid_sims = [sim_standardization3(sim, mean_list[i], std_list[i]) for i, sim in enumerate(valid_sims)]
     test_sims = [sim_standardization3(sim, mean_list[i], std_list[i]) for i, sim in enumerate(test_sims)]
 
-    if mode == 'avg':
+    if strategy == 'avg':
         get_hits(sum(test_sims), device=device)
         return
-    elif mode == 'pre_weighted':
+    elif strategy == 'pre_weighted':
         channels_hits_1 = np.load(hits_1_weights)
         channels_weight = [i / channels_hits_1.sum() for i in channels_hits_1]
         sim_sum = channels_weight[0] * test_sims[0] + \
@@ -161,7 +150,7 @@ def ensemble_sims_with_svm(train_sims, valid_sims, test_sims, hits_1_weights, de
     get_hits(test_sims, device=device)
 
 
-def ensemble_partial_sim_matrix(data_set, device='cpu', mode='avg'):
+def ensemble_partial_sim_matrix(data_set, device='cpu', strategy='pre_weighted'):
     def partial_get_hits(sim, top_k=(1, 10), print_info=True):
         if isinstance(sim, np.ndarray):
             sim = torch.from_numpy(sim)
@@ -182,7 +171,7 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', mode='avg'):
     data_set = data_set.split('DWY100k/')[1]
 
     model_name_list = ['Literal', 'Digital', 'Structure', 'Name']
-    if mode == 'avg':
+    if strategy == 'avg':
         sim_sum = []
         for model_name in tqdm(model_name_list):
             test_sim = np.load("./log/grid_search_%s_%s/test_sim.npy" % (model_name, data_set))
@@ -192,10 +181,9 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', mode='avg'):
                 sim_sum += test_sim
         get_hits(sim_sum, device=device)
         return
-    elif mode == 'pre_weighted':
+    elif strategy == 'pre_weighted':
         sim_sum = []
         channels_hits_1 = np.load(hits_1_weights)
-        channels_hits_1 = np.delete(channels_hits_1, [1]) # 只保留需要的权重
         channels_weight = [i / channels_hits_1.sum() for i in channels_hits_1]
         for i, model_name in tqdm(enumerate(model_name_list)):
             test_sim = np.load("./log/grid_search_%s_%s/test_sim.npy" % (model_name, data_set))
@@ -203,7 +191,6 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', mode='avg'):
                 sim_sum = test_sim * channels_weight[i]
             else:
                 sim_sum += test_sim * channels_weight[i]
-
         get_hits(sim_sum, device=device)
         return
 
@@ -216,7 +203,6 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', mode='avg'):
         negative_indice = np.random.randint(low=0, high=size, size=(4 * sim_num * size, 2))
         negative_indice = [(x, y) for x, y in negative_indice if x != y]
         for sim_path in tqdm(train_sim_path_list, desc='Load train sims'):
-            # sim, _ = load_partial_sim(sim_path)
             sim = np.load(sim_path)
             assert size == sim.shape[0]
             positive_data.append([sim[i, i] for i in range(size)])
@@ -239,12 +225,11 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', mode='avg'):
         label = [1 for _ in range(len(positive_data))] + [0 for _ in range(len(negative_data))]
         label = np.asarray(label)
 
-        C_range = [1e-6, 1e-5] #[1e-1, 1, 10, 1000]
+        C_range = [1e-6, 1e-5]
         best_C = 0
         best_top1 = 0
         best_weight = None
         for C in tqdm(C_range, desc='Fitting SVM'):
-            # clf = SVC(kernel='linear', C=C, gamma='auto')
             clf = LinearSVC(random_state=0, C=C)
             clf.fit(data, label)
             weight = clf.coef_.reshape(-1, 1)
@@ -261,17 +246,9 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', mode='avg'):
         target_sim = None
         for idx, sim_path in tqdm(enumerate(test_sim_path_list), desc='Testing'):
             if target_sim is None:
-                # target_sim = best_weight[idx][0] * load_partial_sim(sim_path)[0]
                 target_sim = best_weight[idx][0] * np.load(sim_path)
             else:
-                # target_sim += best_weight[idx][0] * load_partial_sim(sim_path)[0]
                 target_sim += best_weight[idx][0] * np.load(sim_path)
-        kg = 'source' if not T else 'target'
-        # test_sim = np.load("./log/grid_search_Name_wd_dbp/test_sim.npy") # 完整版
-        # if T:
-        #     test_sim = -target_sim + test_sim.T
-        # else:
-        #     test_sim = -target_sim + test_sim
         if T:
             target_sim = target_sim.T
         partial_get_hits(-target_sim)
@@ -283,49 +260,19 @@ def ensemble_partial_sim_matrix(data_set, device='cpu', mode='avg'):
     svm_ensemble(train_sim_path_list, valid_sim_path_list, test_sim_path_list, T=True)
 
 
-def load_bert_sim(dataset, load_hard_split):
-    from load_data import _load_seeds
-    from pathlib import Path
-    def matrix_sample(sim, indices):
-        # indices should be in increasing order
-        sim = sim[indices]
-        sim = sim[:, indices]
-        return sim
-
-    bert_sim_path = './bin/%s/running_temp/bert_base_sim_matrix.npy' % dataset
-    bert_sim = np.load(bert_sim_path)
-    train_entity_seeds, valid_entity_seeds, test_entity_seeds, entity_seeds = _load_seeds(Path('./bin/%s/' % dataset), 0.3, load_hard_split)
-    train_sr_id_set = {seed[0] for seed in train_entity_seeds}
-    train_indice = np.asarray([idx for idx, seed in enumerate(entity_seeds) if seed[0] in train_sr_id_set])
-    bert_sim_train = matrix_sample(bert_sim, train_indice)
-
-    valid_sr_id_set = {seed[0] for seed in valid_entity_seeds}
-    valid_indice = np.asarray([idx for idx, seed in enumerate(entity_seeds) if seed[0] in valid_sr_id_set])
-    bert_sim_valid = matrix_sample(bert_sim, valid_indice)
-
-    test_sr_id_set = {seed[0] for seed in test_entity_seeds}
-    test_indice = np.asarray([idx for idx, seed in enumerate(entity_seeds) if seed[0] in test_sr_id_set])
-    bert_sim_test = matrix_sample(bert_sim, test_indice)
-    return bert_sim_train, bert_sim_valid, bert_sim_test
-
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--gpu_id', type=int)  # , required=True)
-    parser.add_argument('--dataset', type=str)  # , required=True)
+    parser.add_argument('--gpu_id', type=int, required=True)
+    parser.add_argument('--dataset', type=str, required=True)  # DBP15k/zh_en, DBP15k/ja_en, DBP15k/fr_en, DWY100k/wd_dbp, DWY100k/yg_dbp
+    parser.add_argument('--strategy', type=str, default='pre_weighted', required=True)  # avg, svm, pre_weighted
     parser.add_argument('--svm', action='store_true')
-    parser.add_argument('--load_hard_split', action='store_true')
     args = parser.parse_args()
-    args.dataset = 'DWY100k/wd_dbp'   #  DBP15k/fr_en # zh_en, ja-en, fr-en
     hits_1_weights = str('log/channels_hits_1_' + args.dataset.split("/")[1] + '.npy')
-    # args.svm = 'avg'
-    # args.svm = 'svm'
-    args.svm = 'pre_weighted'
-    args.load_hard_split = False
     device = 'cuda:0'
 
     if args.dataset.find('DBP15k') >= 0:
-        train_sims, valid_sims, test_sims = load_sim_matrices(args.dataset, ['Literal', 'Digital', 'Structure', 'Name'], args.load_hard_split)
-        ensemble_sims_with_svm(train_sims, valid_sims, test_sims, hits_1_weights, device=device, mode=args.svm)
+        train_sims, valid_sims, test_sims = load_sim_matrices(args.dataset, ['Literal', 'Digital', 'Structure', 'Name'])
+        ensemble_sims_with_svm(train_sims, valid_sims, test_sims, hits_1_weights, device=device, strategy=args.strategy)
     elif args.dataset.find('DWY100k') >= 0:
-        ensemble_partial_sim_matrix(args.dataset, device=device, mode=args.svm)
+        ensemble_partial_sim_matrix(args.dataset, device=device, strategy=args.strategy)
