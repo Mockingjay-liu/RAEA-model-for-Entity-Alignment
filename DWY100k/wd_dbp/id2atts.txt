@@ -1,0 +1,1071 @@
+0	ISO 9362 SWIFT/BIC cod
+1	population rural
+2	INE municipality cod
+3	episode number
+4	Dictionary of Ulster Biography ID
+5	ISFDB series ID
+6	NSZL ID
+7	Netflix ID
+8	Finnish MP ID
+9	botanist author abbreviatio
+10	COAM ID
+11	number of students
+12	day
+13	Hansard ID
+14	Sikart
+15	name in native languag
+16	hip size
+17	floor count
+18	fuel capacity
+19	ITF ID
+20	number of deaths
+21	floors above ground
+22	warheroesru ID
+23	VIAF Id
+24	meaning
+25	PORT film ID
+26	undrafted year
+27	FIPS 5 2 code for US states
+28	area
+29	Nomisma ID
+30	fate
+31	nicknam
+32	maximum elevation
+33	OBSOLETE title use P1476 \"title\"
+34	b side
+35	Turner Classic Movies film ID
+36	e archivli ID
+37	poles
+38	singles record
+39	CiNii author ID
+40	RePEc Short ID
+41	Turkish Football Federation manager ID
+42	altlabel
+43	SUDOC editions
+44	FIPS 10 4 countries and regions
+45	bar pass rate
+46	label
+47	Discogs master ID
+48	ISU figure skater ID
+49	total population ranking
+50	weight
+51	GoodReads author ID
+52	MTMT author ID
+53	Jewish Encyclopedia ID Russian
+54	CulturaItalia ID
+55	battle honours
+56	EHAK id
+57	Name Assigning Authority Number
+58	Box Office Mojo person ID
+59	NUTS cod
+60	Free Software Directory entry
+61	wing area
+62	alias
+63	ACMA Register of Radiocommunications Licences Client Identifier
+64	Philippine Standard Geographic Cod
+65	Soccerway player ID
+66	Rijksmonument ID
+67	closed
+68	Member of the Hellenic Parliament ID
+69	nam
+70	Movie Walker ID
+71	birth year
+72	NKCR AUT ID
+73	frequently updated
+74	Norwegian municipality number
+75	Sports Reference ID
+76	Baltisches Biographisches Lexikon digital ID
+77	Gran Enciclop\u00E8dia Catalana ID
+78	Nationalmuseum Sweden artist ID
+79	licence plate cod
+80	route type abbreviation
+81	MAME ROM
+82	Open Food Facts food category slug
+83	National Gallery of Victoria artist ID
+84	Danish urban area cod
+85	PRDL Author ID
+86	service number
+87	French Sculpture Census ID
+88	attendanc
+89	Museofil
+90	Megogo ID
+91	election date leader
+92	number of volunteers
+93	LNB ID
+94	ICAO airline designator
+95	C SPAN person ID
+96	Latvian National Address Register ID
+97	individualised GND number
+98	Erd\u0151s number
+99	DNB editions
+100	ISO 639 3 cod
+101	genealogicsorg person ID
+102	maximum discharge
+103	Smithsonian volcano ID
+104	allegiance
+105	staff
+106	Emporis building ID
+107	National Thesaurus for Author Names ID
+108	Elonet person ID
+109	FIPS 6 4 US counties
+110	TGN ID
+111	OBSOLETE birth name use P1477
+112	Baseball Referencecom major league player ID
+113	Biblioteca Nacional de Chile catalogue number
+114	Commons Creator pag
+115	Davis Cup player ID
+116	eligible voters
+117	age of consent
+118	asset under management
+119	gross domestic product
+120	share of audience
+121	service end year
+122	IMDb ID
+123	J Paul Getty Museum artist id
+124	total population
+125	Scopus Author ID
+126	OmegaWiki Defined Meaning
+127	WDPA id
+128	Ramsar Sites Information Service ID
+129	number of members
+130	Library of Congress Classificatio
+131	ISO 639-2 code
+132	first performanc
+133	NILF author id
+134	CESAR person ID
+135	aircraft registration prefix
+136	Mathematics Genealogy Project ID
+137	office
+138	HKMDb film ID
+139	Kinopoisk person ID
+140	pseudonym
+141	WikiTree ID
+142	LCC
+143	BnF ID
+144	ceeb
+145	OCLC
+146	iTunes album ID
+147	number of locations
+148	average shot length
+149	MoMA artwork id
+150	Kinopoisk film ID
+151	TED speaker ID
+152	UN/LOCODE
+153	ESPN SCRUM ID
+154	fansgroup
+155	KLOV ID
+156	Great Russian Encyclopedia Online ID
+157	CBS municipality cod
+158	date of disappearanc
+159	CGNDB Unique ID
+160	Opensecrets Identifier
+161	issn
+162	EIDR identifier
+163	Regensburg Classificatio
+164	Chemins de m\u00E9moire ID
+165	speed limit
+166	volume
+167	CANTIC ID
+168	National Heritage List for England number
+169	ISO 639 2 cod
+170	Theaterlexikon der Schweiz online ID
+171	PCP reference number
+172	IPA transcriptio
+173	seating capacity
+174	Stuttgart Database of Scientific Illustrators ID
+175	production end year
+176	OCLC control number
+177	GNIS ID
+178	ISWC
+179	Anime News Network person ID
+180	Steam Application ID
+181	Fashion Model Directory photographer ID
+182	municipality code Denmark
+183	road end direction
+184	motto
+185	tuition
+186	Basketball Referencecom NBA player ID
+187	Hansard current session ID
+188	classes
+189	located at street address
+190	Allcinema film ID
+191	beats per minut
+192	RSL ID person
+193	SFDb person ID
+194	ISFDB title ID
+195	Qu\u00E9bec cultural heritage directory people identifier
+196	NAVA ID
+197	year of first ascent
+198	MusicBrainz artist ID
+199	UTC offset
+200	Swedish urban area cod
+201	FAA Location Identifier
+202	SABR ID
+203	identification symbol
+204	number
+205	capacity
+206	BoxRec ID
+207	Czech neighbourhood ID cod
+208	LIR
+209	GitHub usernam
+210	Human Development Index
+211	Dutch Senate person ID
+212	first game
+213	ISO 3166 3
+214	building end date
+215	AlloCin\u00E9 movie ID
+216	nick
+217	area metro
+218	source elevation
+219	Legal Entity ID
+220	speaker
+221	release date
+222	Library of Congress JukeBox ID
+223	local dialing cod
+224	minimum number of players
+225	Heidelberg Academy for Sciences and Humanities member ID
+226	NNDB people ID
+227	FIDE ID
+228	InPhO ID
+229	setting of play
+230	KOATUU identifier
+231	Norsk filmografi ID
+232	reference URL
+233	DNZB
+234	DiseasesDB
+235	abbreviation
+236	Italian cadastre cod
+237	ResearchGate person ID
+238	Find A Grave cemetery ID
+239	employees
+240	networth
+241	GTAA ID
+242	average depth
+243	AGORHA person/institution ID
+244	BIBSYS ID
+245	IMDB id
+246	Munzinger IBA
+247	CONOR ID
+248	work period start
+249	management elevation
+250	SELIBR
+251	campus size
+252	Politifact Personality ID
+253	YandexMusic artist ID
+254	cost
+255	Munzinger Pop ID
+256	doubles record
+257	United States National Bridge ID
+258	GeoNames ID
+259	ticker symbol
+260	number of speakers
+261	BIBSYS Id
+262	maximum number of players
+263	National Topographic System map number
+264	Enciclop\u00E9dia A\u00E7oriana ID
+265	minimum elevation
+266	Open Library ID
+267	National Football Teamscom player ID
+268	oversight
+269	Benezit ID
+270	Elonet movie ID
+271	number of seats
+272	bridge carries
+273	material
+274	NSDAP membership number 1925\u20131945
+275	Thailand central administrative unit cod
+276	Finnish Ministers database ID
+277	MovieMeter Movie ID
+278	BBC program ID
+279	MovieMeter director ID
+280	vehicle rang
+281	BPS language cod
+282	birth nam
+283	name
+284	route number
+285	FISA ID
+286	BVMC person ID
+287	draft
+288	RKDartists ID
+289	number of out of school childr
+290	SANDRE ID
+291	strength
+292	founding year
+293	number of islands
+294	KDG Komponisten der Gegenwart
+295	population as of
+296	number of processor cores
+297	watershed area
+298	flag
+299	INSEE municipality cod
+300	date of death
+301	number of seasons
+302	givenName
+303	building start year
+304	MusicBrainz place ID
+305	Kansallisbiografia ID
+306	GNS Unique Feature ID
+307	Online World of Wrestling ID
+308	Shakeosphere person ID
+309	KLG Kritisches Lexikon der Gegenwartsliteratur
+310	number of episodes
+311	People Australia ID
+312	Open Hub ID
+313	DOI Prefix
+314	Czech cultural heritage ID
+315	time
+316	runtime
+317	Eurohockeycom player ID
+318	station cod
+319	BFI work ID
+320	latest release date
+321	mass
+322	AllMusic artist ID
+323	AlloCin\u00E9 person ID
+324	rebuilding year
+325	depiction description
+326	Catalan Biographical Dictionary of Women ID
+327	census year
+328	Anime News Network company ID
+329	share source
+330	track length
+331	production end date
+332	Fashion Model Directory designer ID
+333	diameter
+334	city type
+335	Latvian toponymic names database ID
+336	Dictionary of Welsh Biography ID
+337	CricketArchive player ID
+338	maximum Strahler number
+339	current status
+340	description
+341	UIC numerical country cod
+342	population metro
+343	portfolio
+344	IPI number
+345	leader title
+346	exploitation visa number
+347	ISTAT ID
+348	closing date
+349	Artsy artist ID
+350	road number
+351	Thyssen Bornemisza artist id
+352	autoresuy database id
+353	EGAXA ID
+354	Gew\u00E4sserkennzahl
+355	championships
+356	lowest
+357	MoMA artist id
+358	minimum discharge
+359	population metro density
+360	wins
+361	CVR number
+362	code Inventari del Patrimoni Arquitect\u00F2nic de Catalunya
+363	China Vitae ID
+364	last publication date
+365	committee
+366	population urban density
+367	source confluence elevation
+368	length
+369	official websit
+370	IHSI ID
+371	KMDb person ID
+372	Dictionary of Art Historians ID
+373	supplemental draft round
+374	net worth estimat
+375	Spotify track ID
+376	VIAF ID
+377	current season
+378	draft pick
+379	Transfermarkt footballer ID
+380	dissolved or abolished
+381	FIPS 55 3 locations in the US
+382	GSS code 2011
+383	EAGLE id
+384	other serving lines
+385	longtype
+386	GND ID
+387	marriageable ag
+388	Musopen composer ID
+389	stated as
+390	discharge
+391	latest preview version
+392	discharg
+393	frequency
+394	point in tim
+395	area urban
+396	role
+397	Catalogus Professorum Rostochensium ID
+398	TVcom ID
+399	FIVB beach volleyball player ID
+400	Ballotpedia ID
+401	Munk's Roll ID
+402	background
+403	ranking
+404	IATA code
+405	Dewey Decimal Classification
+406	FilmAffinity ID
+407	Rolling Stone artist ID
+408	name in kana
+409	TERYT municipality cod
+410	production cod
+411	Fellow of the Royal Society
+412	NLP ID
+413	Internet media typ
+414	e mail
+415	Projeto Excel\u00EAncias ID
+416	NLR Romania ID
+417	WALS lect cod
+418	Discogs label ID
+419	SourceForge project
+420	area rural
+421	opening date
+422	duratio
+423	service retirement
+424	Wikisource index pag
+425	NUKAT WarsawU authorities
+426	BBC News Democracy Live ID
+427	MusicBrainz work ID
+428	source code repository
+429	Catalogus Professorum Halensis
+430	Kinopolis film ID
+431	Magdeburger Biographisches Lexiko
+432	wingspa
+433	Academic Tree ID
+434	senatfr ID
+435	line length
+436	Sandrartnet person ID
+437	zbMATH author ID
+438	Catalogus Professorum Academiae Rheno Traiectinae ID
+439	OpenCritic ID
+440	motto text
+441	KLfG Critical Dictionary of foreign contemporary literatur
+442	Mus\u00E9e d'Orsay artist ID
+443	Tate artist identifier
+444	NRHP Reference Number
+445	extinction date
+446	death date
+447	Structurae ID structure
+448	career prize money
+449	Hall of Valor ID
+450	fare zone
+451	Soccerbase manager ID
+452	AlloCin\u00E9 series ID
+453	IATA Location Identifier
+454	Spotify artist ID
+455	OKTMO ID
+456	ISBN
+457	YouTube video ID
+458	campus type
+459	MSBI person ID
+460	MusicBrainz label ID
+461	draft year
+462	Cycling Archives ID cyclist
+463	dissolved
+464	draft round
+465	floors below ground
+466	Deezer artist ID
+467	fees
+468	elevation above sea level
+469	equity
+470	elevation
+471	official school colour
+472	ACM Digital Library author ID
+473	short nam
+474	area water
+475	BALaT person/organisation id
+476	Facebook Places ID
+477	internationally
+478	ISBN 13
+479	podiums
+480	LIBRIS editions
+481	Linguasphere cod
+482	number of volumes
+483	KSH cod
+484	Unicode character
+485	timeshift channel
+486	Oxford Biography Index Number
+487	Web Gallery of Art ID
+488	production rat
+489	broadcast station class
+490	active years
+491	population urban
+492	BNCF Thesaurus
+493	ResearchGate institute ID
+494	Pleiades ID
+495	DAAO ID
+496	Parsons cod
+497	BNF Id
+498	ICAO code
+499	described at URL
+500	width quote
+501	BiblioNet publisher ID
+502	ICAO Location Identifier
+503	dantai cod
+504	Ethnologuecom cod
+505	LAU
+506	Chess Games ID
+507	road start direction
+508	Enciclopedia de la Literatura en M\u00E9xico ID
+509	Dialnet author ID
+510	subdivisions
+511	Swiss municipality cod
+512	New York Times Semantic Concept: Perso
+513	IRC channel
+514	Six Degrees of Francis Bacon ID
+515	publication dat
+516	FCC Facility ID
+517	type
+518	BBF ID
+519	fastest lap
+520	MusicBrainz area ID
+521	Google Books ID
+522	LCCN Id
+523	ICAO airport cod
+524	CLARA ID
+525	FedCup player ID
+526	OpenStreetMap Relation identifier
+527	KINENOTE film ID
+528	BiblioNet author ID
+529	Internet Broadway Database person ID
+530	school number
+531	World Heritage Site ID
+532	first air date
+533	date of burial
+534	faculty size
+535	Iconclass notatio
+536	start date
+537	Perlentaucher ID
+538	opening year
+539	toll
+540	waist size
+541	water as percent of area
+542	NSK ID
+543	GOST 767 cyrillic
+544	MobyGames ID
+545	administrative code of Indonesia
+546	INSEE code
+547	bust size
+548	code
+549	NGA artist id
+550	software versio
+551	female populatio
+552	Metacritic ID
+553	maximum temperature
+554	hall of fame
+555	British Museum person institutio
+556	working titl
+557	YouTube channel ID
+558	a side
+559	IRS Employer Identification Number
+560	Find a Grave grave ID
+561	Openpolis ID
+562	total produced
+563	radius
+564	status
+565	SBN ID
+566	SMDB ID
+567	maritime identification digits
+568	IETF language tag
+569	Wine AppDB ID
+570	anniversary
+571	Prosopographia Attica
+572	Encyclopaedia Metallum artist ID
+573	date of taxon name publicatio
+574	Dizionario Biografico degli Italiani
+575	demonym
+576	maximum depth
+577	DNF film ID
+578	grid global research id
+579	Google Knowledge Graph identifier
+580	area land
+581	disbanded
+582	Google+ usernam
+583	CPDL ID
+584	age range
+585	number of employees
+586	legislative period name
+587	distance to London
+588	circulation
+589	Baseball Referencecom minor league player ID
+590	DfE URN
+591	Genicom profile ID
+592	Genius artist ID
+593	Worldfootballnet ID
+594	Kunstindeks Danmark Artist ID
+595	synonym
+596	character in play
+597	postal code
+598	population total
+599	Austrian Parliament ID
+600	WOEID
+601	IPNI author ID
+602	USB ID
+603	ballots cast
+604	Roud Folk Song Index number
+605	MusicBrainz release group ID
+606	NLA Australia ID
+607	TED topic ID
+608	Debrett's People of Today ID
+609	certification
+610	subtitle
+611	feed URL
+612	Hockeydbcom player ID
+613	LCAuth ID
+614	IMSLP ID
+615	Genealogical Gazetteer GOV ID
+616	unemployment rat
+617	GOG application ID
+618	plays
+619	UEFA player ID
+620	number of films
+621	model start year
+622	file extensio
+623	time of discovery
+624	McCune Reischauer romanizatio
+625	Slovenska biografija ID
+626	number of tracks
+627	Dharma Drum Buddhist College place ID
+628	Low German Bibliography and Biography ID
+629	colour name
+630	number built
+631	National Library of Ireland authority
+632	LibraryThing work ID
+633	AllMusic composition ID
+634	chairman title
+635	government elevation
+636	Marine Regions Geographic ID
+637	INEGI locality ID
+638	number of visitors
+639	IATA airport cod
+640	ATVK ID
+641	time in spac
+642	mainspan
+643	eruption date
+644	SUDOC authorities
+645	Smithsonian American Art Museum: person/institution thesaurus id
+646	INSPIRE HEP author ID
+647	DBNL author ID
+648	MLSSoccercom ID
+649	Dewey Decimal Classificatio
+650	combatant
+651	number of graduate students
+652	phone number
+653	Fashion Model Directory model ID
+654	image size
+655	election date
+656	upper age
+657	track number
+658	CrunchBase person ID
+659	Comediench ID
+660	NUTS code
+661	formation date
+662	hair color
+663	mouth elevation
+664	first publication date
+665	Box Office Mojo franchise ID
+666	allgame ID
+667	sport number
+668	Slovene Cultural Heritage Register ID
+669	Taekwondo Data ID
+670	beatified date
+671	Italian Chamber of Deputies ID
+672	Freebase ID
+673	INSEE department cod
+674	formation year
+675	active years end year
+676	floor area
+677	State Water Register Code Russia
+678	Cooper Hewitt Person ID
+679	GOST 775 97 cod
+680	NCL ID
+681	Anime News Network anime ID
+682	US Congress Bio ID
+683	Beach Volleyball Database ID
+684	team name
+685	active years end date
+686	religious nam
+687	lesarchivesduspectacle ID
+688	election majority
+689	NARA geographic ID
+690	NARA organization ID
+691	ORCID
+692	Modelscom person ID
+693	Stack Exchange tag
+694	Hungarian company ID
+695	maximum operating altitud
+696	gross
+697	military command
+698	\u010CSFD film ID
+699	DBCS ID
+700	Skyscraper Center ID
+701	birth name
+702	prominence
+703	retirement ag
+704	CrunchBase organisation ID
+705	S\u00E4chsische Biografi
+706	Theatricalia play ID
+707	ISO 639-3 code
+708	NLC authorities
+709	time of earliest written record
+710	BBC Things ID
+711	Spotify album ID
+712	Commons category
+713	purpose
+714	floruit
+715	country calling cod
+716	Structurae person ID
+717	year of construction
+718	ISO standard
+719	ISFDB publisher ID
+720	OS grid referenc
+721	Global Anabaptist Mennonite Encyclopedia Online ID
+722	MacTutor id biographies
+723	Latvian Olympic Committee athlete ID
+724	Turkish Football Federation player ID
+725	runway
+726	SFDb group ID
+727	number of teams
+728	height
+729	watershed
+730	last air date
+731	Journalisted ID
+732	ISO 3166 1 numeric cod
+733	titl
+734	bureau du patrimoine de Seine Saint Denis ID
+735	production start year
+736	premiere year
+737	certification date
+738	populatio
+739	OpenPlaques subject ID
+740	FAA airport cod
+741	box offic
+742	ISNI
+743	SWB editions
+744	Discogs artist ID
+745	latest release version
+746	other
+747	Nupill Literatura Digital   Author
+748	New York Times Semantic Concept: Locatio
+749	Encyclop\u00E6dia Britannica Online ID
+750	order in office
+751	record date
+752	Swiss parliament ID
+753	D U N S
+754	Twitter usernam
+755	Australian Dictionary of Biography ID
+756	death year
+757	They Work for You ID
+758	official blog
+759	transmission
+760	ELSTAT geographical cod
+761	production
+762	Transfermarktcom manager ID
+763	number of piers in water
+764	NASA biographical ID
+765	canonized date
+766	Animatorru film ID
+767	dissolution date
+768	official nam
+769	NLA Id
+770	PSS Archi architect id
+771	FAST ID
+772	Scopedk person ID
+773	date of baptism in early childhood
+774	Commons gallery
+775	volume as quantity
+776	Scopus Source ID
+777	PGA Tour ID
+778	Theatricalia theatre ID
+779	PublicWhip ID
+780	UNZ author identifier
+781	frozen
+782	ResearcherID
+783	YandexMusic album ID
+784	net income
+785	slogan
+786	life expectancy
+787	DOI
+788	parliamentuk ID
+789	number of spans
+790	Deezer album ID
+791	pag
+792	topographic prominenc
+793	IAAF ID
+794	ISSN
+795	AcademiaNet
+796	Catholic Hierarchy person ID
+797	ISFDB author ID
+798	age of majority
+799	bed count
+800	Biografisch Portaal number
+801	feast day, holiday
+802	number of undergraduate students
+803	dissolution year
+804	military unit size
+805	KulturNav id
+806	service start year
+807	BAV ID
+808	EMLO person ID
+809	CBDB ID
+810	year of electrification
+811	CONA ID
+812	L\u00E9onore ID
+813	size
+814	debut
+815	Brazilian municipality cod
+816	HowLongToBeat ID
+817	number of staff
+818	digital channel
+819	percentage of area water
+820	population density
+821	year
+822	JMDb film ID
+823	founding date
+824	end tim
+825	\u010CSFD person ID
+826	German municipality key
+827	ECARTICO person ID
+828	Project Gutenberg ebook ID
+829	first flight
+830	signature
+831	Theatricalia person ID
+832	male populatio
+833	Leidse Hoogleraren ID
+834	number of doctoral students
+835	Discogs release ID
+836	access
+837	address
+838	season number
+839	BCU Ecrivainsvd
+840	Integrated Postsecondary Education Data System ID
+841	CALIS
+842	author citation zoology
+843	ISO 639-1 code
+844	postal cod
+845	fax number
+846	Mackolikcom footballer ID
+847	number of stations
+848	ISO 3166 1 alpha 3 cod
+849	UNDP country cod
+850	completion date
+851	IATA airline designator
+852	Art UK artist ID
+853	AllMusic song ID
+854	Facebook ID
+855	width
+856	number of elevators
+857	SIRUTA cod
+858	causalties
+859	Google Scholar ID
+860	former name
+861	designation of runway
+862	mobile country cod
+863	Dodis
+864	ethnic groups in year
+865	NARA person ID
+866	Parlement & Politiek ID
+867	HDS ID
+868	Scopedk film ID
+869	students count
+870	number of representatives in an organization/legislatur
+871	grid reference
+872	area of catchment
+873	rebuilding date
+874	Sycomore ID
+875	Encyclopaedia Metallum release ID
+876	Encyclopaedia Metallum band ID
+877	MetroLyrics ID
+878	WTA ID
+879	ISBN 10
+880	PORT person ID
+881	NRHP reference number
+882	Internet Broadway Database show ID
+883	maximum capacity
+884	Association Authors of Switzerland ID
+885	density
+886	VAT rat
+887	catholicru ID
+888	publication date
+889	married nam
+890	discharge average
+891	membership
+892	Spenserians person ID
+893	NDL ID
+894	Snapchat usernam
+895	DBLP pID
+896	AAT ID
+897	participant
+898	CalculationNeeds
+899	dmoz ID
+900	Wrestlingdata person ID
+901	Romania LMI cod
+902	first appearance
+903	OpenCorporates ID
+904	Instagram usernam
+905	PACE member ID
+906	SNAP ID
+907	model end year
+908	races
+909	Rotten Tomatoes ID
+910	demolition date
+911	inceptio
+912	Digital Atlas of the Roman Empire ID
+913	ISO 3166 1 alpha 2 cod
+914	Glottolog cod
+915	service entry
+916	United World Wrestling ID
+917	SFDb movie ID
+918	building start date
+919	P number
+920	date of official opening
+921	AllMovie artist ID
+922	Danish listed buildings case ID
+923	external data available at
+924	LAC ID
+925	endowment
+926	active years start year
+927	facility id
+928	DVN ID
+929	CTHS person ID
+930	length of runway
+931	CERL ID
+932	ODIS ID
+933	Great Aragonese Encyclopedia ID
+934	Pers\u00E9e author ID
+935	average class size
+936	ULAN ID
+937	Skyscraper Center building complex ID
+938	Box Office Mojo film ID
+939	school code
+940	PTBNP ID
+941	start tim
+942	Sherdog ID
+943	iucn category
+944	Rodovid ID
+945	Plarr ID
+946	Eliteprospectscom player ID
+947	FIS alpine skier ID
+948	AniDB ID
+949	quote
+950	Belgian Football ID
+951	geologic period
+952	number of childr
+953	area code
+954	result
+955	revenue
+956	date of birth
+957	ISO 3166 2 cod
+958	number of points/goals scored
+959	Austrian municipality key
+960	perimeter
+961	share date
+962	last election date
+963	lower age
+964	added
+965	Pleiades place type identifier
+966	assets
+967	area total
+968	Twitter hashtag
+969	PSH ID
+970	Persons of Ancient Athens
+971	shore length
+972	salary
+973	head label
+974	Internet Wrestling Database ID
+975	Trismegistos Geo ID
+976	eye color
+977	SecondHandSongs song ID
+978	manager title
+979	ISIN
+980	Box Office Mojo studio ID
+981	BNC ID
+982	number of pages
+983	wha draft
+984	vehicles per day
+985	Commons Institution pag
+986	unit cost
+987	bug tracking system
+988	birth date
+989	editor title
+990	Europeana ID
+991	ISO 639 1 cod
+992	ProCyclingStats ID cyclist
+993	M49 cod
+994	Cambridge Alumni Database ID
+995	Art UK venue ID
+996	publicly accessible
+997	Modelscom client ID
+998	Gini coefficient
+999	BNE ID
+1000	Internet Archive ID
+1001	Companies House ID
+1002	Kaiserhof ID
+1003	Helveticarchives ID
+1004	ISO region code
+1005	LinkedIn personal profile URL
+1006	date of abandonment
+1007	wheelbase
+1008	DNF person ID
+1009	BAG code for Dutch locations
+1010	Soccerbase player ID
+1011	longName
+1012	shoe size
+1013	capital elevation
+1014	AllMovie movie ID
+1015	railway platforms
+1016	Filmportal ID
+1017	municipality code
+1018	surface of runway
+1019	Teuchos ID
+1020	IOC country cod
+1021	Catalogus Professorum Academiae Groninganae id
+1022	IGESPAR ID
+1023	MEP directory ID
+1024	WWEcom superstar ID
+1025	ESPNcricinfo player ID
+1026	production start date
+1027	callsign of airli
+1028	Librivox author ID
+1029	shoots
+1030	National Portrait Gallery London person ID
+1031	University of Barcelona authority ID
+1032	German regional key
+1033	Project Gutenberg author ID
+1034	operating income
+1035	MusicBrainz series ID
+1036	BMLO
+1037	AllMusic album ID
+1038	Biographical Directory of Federal Judges id
+1039	LCOC LCCN bibliographic
+1040	Foursquare venue ID
+1041	FIFA player ID
+1042	CageMatch worker ID
+1043	mascot
+1044	active years start date
+1045	History of Parliament ID
+1046	work period end
+1047	series ordinal
+1048	native label
+1049	subtitl
+1050	date
+1051	NIS/INS cod
+1052	MBA Id
+1053	budget
+1054	number of postgraduate students
+1055	M\u00E9rim\u00E9e ID
+1056	supplemental draft year
+1057	minimum temperature
+1058	Parliamentary record identifier
+1059	WomenWriters ID
+1060	geology
+1061	title
+1062	Banque de noms de lieux du Qu\u00E9bec id
+1063	Munzinger Sport number
+1064	ATP ID
+1065	notes
+1066	US Federal Election Commission ID
+1067	SecondHandSongs artist ID
+1068	National Library of Israel ID
+1069	extinction year
+1070	seniority

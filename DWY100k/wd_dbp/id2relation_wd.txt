@@ -1,0 +1,946 @@
+0	programmer
+1	sfdb group id
+2	boxrec id
+3	allcinema film id
+4	plarr id
+5	eliteprospectscom player id
+6	manufacturer
+7	topographic prominenc
+8	dialnet author id
+9	stepmother
+10	cagematch worker id
+11	dictionary of welsh biography id
+12	icao airline designator
+13	watershed area
+14	dewey decimal classificatio
+15	ted speaker id
+16	fips 5 2 code for us states
+17	cricketarchive player id
+18	turner classic movies film id
+19	manager/director
+20	software engi
+21	scopedk film id
+22	dictionary of art historians id
+23	koatuu identifier
+24	port person id
+25	mccune reischauer romanizatio
+26	siruta cod
+27	commons gallery
+28	rolling stone artist id
+29	gns unique feature id
+30	runway
+31	illustrator
+32	omegawiki defined meaning
+33	vat rat
+34	encyclopaedia metallum artist id
+35	kaiserhof id
+36	isin
+37	director of photography
+38	calis
+39	lake outflow
+40	prosopographia attica
+41	brother
+42	sports reference id
+43	usb id
+44	theme music
+45	main subject
+46	cooper hewitt person id
+47	library of congress jukebox id
+48	field of work
+49	opencorporates id
+50	erd\u0151s number
+51	german regional key
+52	director
+53	thyssen bornemisza artist id
+54	replaces
+55	australian dictionary of biography id
+56	point in tim
+57	allmovie artist id
+58	ptbnp id
+59	contributor
+60	biographical directory of federal judges id
+61	mathematics genealogy project id
+62	autoresuy database id
+63	partner
+64	czech neighbourhood id cod
+65	elstat geographical cod
+66	national library of israel id
+67	mobygames id
+68	total produced
+69	fast id
+70	wrestlingdata person id
+71	un/locode
+72	instance of
+73	worldfootballnet id
+74	country
+75	google+ usernam
+76	military branch
+77	follows
+78	time of earliest written record
+79	owner of
+80	parsons cod
+81	architect
+82	danish listed buildings case id
+83	allgame id
+84	movie walker id
+85	allocin\u00e9 person id
+86	legislative body
+87	lesarchivesduspectacle id
+88	location of formatio
+89	nationalmuseum sweden artist id
+90	openplaques subject id
+91	dbcs id
+92	has immediate caus
+93	nndb people id
+94	journalisted id
+95	spous
+96	brand
+97	doctoral student
+98	gss code 2011
+99	musicbrainz release group id
+100	cgndb unique id
+101	fashion model directory photographer id
+102	fips 55 3 locations in the us
+103	libris editions
+104	rodovid id
+105	comediench id
+106	p number
+107	norsk filmografi id
+108	ted topic id
+109	project gutenberg ebook id
+110	secondhandsongs artist id
+111	postal cod
+112	unemployment rat
+113	populatio
+114	elonet movie id
+115	howlongtobeat id
+116	short nam
+117	author
+118	sfdb movie id
+119	\u010csfd film id
+120	production company
+121	wdpa id
+122	romania lmi cod
+123	allocin\u00e9 series id
+124	participant of
+125	member of political party
+126	place of death
+127	rsl id person
+128	publicwhip id
+129	licence plate cod
+130	us federal election commission id
+131	istat id
+132	series ordinal
+133	external data available at
+134	structural engineer
+135	beach volleyball database id
+136	odis id
+137	inspire hep author id
+138	time in spac
+139	male populatio
+140	goodreads author id
+141	brazilian municipality cod
+142	place served by airport
+143	membership
+144	musicbrainz place id
+145	licensed to broadcast to
+146	iconclass notatio
+147	nava id
+148	platform
+149	latvian national address register id
+150	irs employer identification number
+151	eurohockeycom player id
+152	hall of valor id
+153	soccerbase player id
+154	conor id
+155	scopus source id
+156	munk's roll id
+157	ethnologuecom cod
+158	icao airport cod
+159	first flight
+160	iso 3166 2 cod
+161	discogs artist id
+162	obsolete title use p1476 \"title\"
+163	recorded at
+164	wikitree id
+165	womenwriters id
+166	e archivli id
+167	publication dat
+168	fcc facility id
+169	water as percent of area
+170	employees
+171	location of discovery
+172	klov id
+173	located next to body of water
+174	moviemeter movie id
+175	pet
+176	kdg komponisten der gegenwart
+177	chairperso
+178	nicknam
+179	culturaitalia id
+180	art uk venue id
+181	internet broadway database show id
+182	present in work
+183	allmusic composition id
+184	applies to jurisdictio
+185	acm digital library author id
+186	sandrartnet person id
+187	main building contractor
+188	successful candidat
+189	soundtrack album
+190	isfdb publisher id
+191	botanist author abbreviatio
+192	doi prefix
+193	anidb id
+194	chief executive officer
+195	discogs label id
+196	date of birth
+197	retirement ag
+198	linguasphere cod
+199	new york times semantic concept: perso
+200	bnc id
+201	filmaffinity id
+202	stepfather
+203	isfdb title id
+204	fivb beach volleyball player id
+205	commons creator pag
+206	radius
+207	sycomore id
+208	hansard id
+209	isu figure skater id
+210	vehicle rang
+211	unicode character
+212	female populatio
+213	national portrait gallery london person id
+214	emporis building id
+215	notable work
+216	tgn id
+217	benezit id
+218	tracklist
+219	bag code for dutch locations
+220	zbmath author id
+221	ecartico person id
+222	freebase id
+223	fips 6 4 us counties
+224	orcid
+225	number of out of school childr
+226	lir
+227	encyclopaedia metallum band id
+228	bfi work id
+229	agorha person/institution id
+230	bug tracking system
+231	new york times semantic concept: locatio
+232	librarything work id
+233	finnish ministers database id
+234	biografisch portaal number
+235	deezer album id
+236	pga tour id
+237	nara organization id
+238	online world of wrestling id
+239	artsy artist id
+240	hkmdb film id
+241	moma artist id
+242	spotify track id
+243	head coach
+244	official nam
+245	selibr
+246	doi
+247	pace member id
+248	different from
+249	contains administrative territorial entity
+250	nrhp reference number
+251	iaaf id
+252	creator
+253	filmportal id
+254	itf id
+255	box office mojo person id
+256	children
+257	member of the hellenic parliament id
+258	fellow of the royal society
+259	original network
+260	bbc program id
+261	sponsor
+262	transfermarkt footballer id
+263	territory claimed by
+264	researchgate institute id
+265	nkcr aut id
+266	cerl id
+267	researcherid
+268	dnf film id
+269	number of elevators
+270	ehak id
+271	klg kritisches lexikon der gegenwartsliteratur
+272	soccerbase manager id
+273	museofil
+274	ipni author id
+275	number of points/goals scored
+276	bps language cod
+277	inegi locality id
+278	native languag
+279	fax number
+280	scopus author id
+281	world heritage site id
+282	number of speakers
+283	enciclopedia de la literatura en m\u00e9xico id
+284	structurae id structure
+285	educated at
+286	yandexmusic album id
+287	country of citizenship
+288	ksh cod
+289	librettist
+290	twitter hashtag
+291	aat id
+292	locatio
+293	eidr identifier
+294	inceptio
+295	number of representatives in an organization/legislatur
+296	religious nam
+297	insee municipality cod
+298	find a grave grave id
+299	bne id
+300	senatfr id
+301	iata airport cod
+302	web gallery of art id
+303	languages spoken written or signed
+304	sister
+305	magdeburger biographisches lexiko
+306	parlement & politiek id
+307	academic tree id
+308	maximum capacity
+309	place of burial
+310	daao id
+311	modelscom person id
+312	local dialing cod
+313	wwecom superstar id
+314	birth nam
+315	producer
+316	production rat
+317	cinii author id
+318	italian chamber of deputies id
+319	dfe urn
+320	operating system
+321	crunchbase person id
+322	austrian parliament id
+323	theatricalia play id
+324	regensburg classificatio
+325	bav id
+326	fips 10 4 countries and regions
+327	kinopolis film id
+328	presenter
+329	allmovie movie id
+330	award received
+331	width
+332	imslp id
+333	age of majority
+334	contains settlement
+335	catalogus professorum rostochensium id
+336	encyclopaedia metallum release id
+337	clara id
+338	legal entity id
+339	coincident with
+340	parliamentary record identifier
+341	isfdb series id
+342	subclass of
+343	anime news network company id
+344	mame rom
+345	occupant
+346	length
+347	kinopoisk person id
+348	china vitae id
+349	nga artist id
+350	depends on softwar
+351	d u n s
+352	unz author identifier
+353	integrated postsecondary education data system id
+354	kunstindeks danmark artist id
+355	work locatio
+356	teuchos id
+357	commons category
+358	companies house id
+359	number of deaths
+360	head of stat
+361	emlo person id
+362	terminus
+363	british museum person institutio
+364	filming locatio
+365	designer
+366	list of works
+367	screenwriter
+368	google books id
+369	faa airport cod
+370	youtube video id
+371	rotten tomatoes id
+372	occupatio
+373	origin of the watercours
+374	viaf id
+375	klfg critical dictionary of foreign contemporary literatur
+376	reference url
+377	member of
+378	theatricalia theatre id
+379	end tim
+380	hockeydbcom player id
+381	stuttgart database of scientific illustrators id
+382	country calling cod
+383	acma register of radiocommunications licences client identifier
+384	soccerway player id
+385	french sculpture census id
+386	area
+387	depicts
+388	imdb id
+389	source code repository
+390	teryt municipality cod
+391	woeid
+392	number of childr
+393	bnf id
+394	czech cultural heritage id
+395	library of congress classificatio
+396	beats per minut
+397	espn scrum id
+398	box office mojo franchise id
+399	ietf language tag
+400	state water register code russia
+401	home venu
+402	researchgate person id
+403	national heritage list for england number
+404	facebook id
+405	language used
+406	danish urban area cod
+407	airline hub
+408	attendanc
+409	exploitation visa number
+410	connects with
+411	dnb editions
+412	sbn id
+413	mother
+414	nam
+415	project gutenberg author id
+416	country of origi
+417	dantai cod
+418	german municipality key
+419	isbn 10
+420	stated as
+421	mackolikcom footballer id
+422	replaced by
+423	debrett's people of today id
+424	discogs master id
+425	crosses
+426	mobile country cod
+427	trismegistos geo id
+428	located at street address
+429	ramsar sites information service id
+430	dutch senate person id
+431	roud folk song index number
+432	student of
+433	structurae person id
+434	iso 3166 1 alpha 2 cod
+435	theaterlexikon der schweiz online id
+436	nuts cod
+437	sourceforge project
+438	iso 639 1 cod
+439	iso standard
+440	people australia id
+441	iso 639 2 cod
+442	founder
+443	floors above ground
+444	dodis
+445	nla australia id
+446	metacritic id
+447	elevation above sea level
+448	cause of
+449	has dialect
+450	discharg
+451	musicbrainz area id
+452	nilf author id
+453	mass
+454	fifa player id
+455	located on terrain featur
+456	structure replaced by
+457	theatricalia person id
+458	residenc
+459	dizionario biografico degli italiani
+460	marriageable ag
+461	ioc country cod
+462	eagle id
+463	cpdl id
+464	rector
+465	espncricinfo player id
+466	start tim
+467	item operated
+468	fedcup player id
+469	internet wrestling database id
+470	primary destinations
+471	free software directory entry
+472	costume designer
+473	cover artist
+474	ethnic group
+475	lnb id
+476	said to be the same as
+477	archives at
+478	narrator
+479	country for sport
+480	baltisches biographisches lexikon digital id
+481	killed by
+482	ticker symbol
+483	genius artist id
+484	catalan biographical dictionary of women id
+485	inspired by
+486	yandexmusic artist id
+487	dictionary of ulster biography id
+488	winner
+489	iso 3166 3
+490	leidse hoogleraren id
+491	persons of ancient athens
+492	shakeosphere person id
+493	service entry
+494	work period end
+495	facebook places id
+496	characters
+497	anime news network person id
+498	gran enciclop\u00e8dia catalana id
+499	nasa biographical id
+500	procyclingstats id cyclist
+501	port film id
+502	subsidiary
+503	density
+504	tributary
+505	married nam
+506	marine regions geographic id
+507	sherdog id
+508	spenserians person id
+509	lyrics by
+510	member of sports team
+511	egaxa id
+512	capital
+513	mus\u00e9e d'orsay artist id
+514	candidat
+515	hansard current session id
+516	callsign of airli
+517	licens
+518	google scholar id
+519	leagu
+520	taekwondo data id
+521	performer
+522	capital of
+523	find a grave cemetery id
+524	encyclop\u00e6dia britannica online id
+525	musicbrainz series id
+526	product
+527	municipality code denmark
+528	demonym
+529	budget
+530	low german bibliography and biography id
+531	highest point
+532	baseball referencecom minor league player id
+533	pleiades id
+534	munzinger sport number
+535	netflix id
+536	pseudonym
+537	helveticarchives id
+538	from fictional univers
+539	spin off
+540	lcauth id
+541	inpho id
+542	native label
+543	snap id
+544	doubles record
+545	headquarters locatio
+546	oxford biography index number
+547	irc channel
+548	godparent
+549	human development index
+550	history of parliament id
+551	parent organizatio
+552	turkish football federation manager id
+553	munzinger pop id
+554	art uk artist id
+555	iso 639 3 cod
+556	date of official opening
+557	bbc things id
+558	publisher
+559	language regulatory body
+560	finnish mp id
+561	after a work by
+562	code inventari del patrimoni arquitect\u00f2nic de catalunya
+563	pss archi architect id
+564	gog application id
+565	basin country
+566	diplomatic relatio
+567	name in kana
+568	obsolete birth name use p1477
+569	isbn 13
+570	m\u00e9rim\u00e9e id
+571	sabr id
+572	transfermarktcom manager id
+573	crunchbase organisation id
+574	operating area
+575	lake inflows
+576	motto text
+577	elonet person id
+578	uefa player id
+579	mtmt author id
+580	lac id
+581	minimum number of players
+582	jewish encyclopedia id russian
+583	europeana id
+584	slovene cultural heritage register id
+585	box office mojo studio id
+586	cona id
+587	cesar person id
+588	qu\u00e9bec cultural heritage directory people identifier
+589	igespar id
+590	connecting li
+591	austrian municipality key
+592	discogs release id
+593	us congress bio id
+594	gew\u00e4sserkennzahl
+595	narrative locatio
+596	catholic hierarchy person id
+597	warheroesru id
+598	rijksmonument id
+599	nupill literatura digital   author
+600	terminus locatio
+601	author citation zoology
+602	musicbrainz artist id
+603	grid global research id
+604	catalogus professorum halensis
+605	balat person/organisation id
+606	youtube channel id
+607	bcu ecrivainsvd
+608	dissolved or abolished
+609	cambridge alumni database id
+610	psh id
+611	commons institution pag
+612	nomisma id
+613	linkedin personal profile url
+614	approved by
+615	geonames id
+616	subtitl
+617	production cod
+618	kmdb person id
+619	genr
+620	national library of ireland authority
+621	software versio
+622	participating teams
+623	repec short id
+624	working titl
+625	tvcom id
+626	dnzb
+627	cbdb id
+628	number of seats
+629	exclave of
+630	immediate cause of
+631	davis cup player id
+632	bureau du patrimoine de seine saint denis id
+633	swb editions
+634	jmdb film id
+635	date of disappearanc
+636	ancestral hom
+637	number of episodes
+638	box offic
+639	gost 767 cyrillic
+640	cantic id
+641	kinopoisk film id
+642	instagram usernam
+643	original language of work
+644	sudoc authorities
+645	internet media typ
+646	developer
+647	enclave withi
+648	cycling archives id cyclist
+649	date of baptism in early childhood
+650	conflict
+651	scopedk person id
+652	service retirement
+653	aircraft registration prefix
+654	bbf id
+655	smithsonian volcano id
+656	gini coefficient
+657	association authors of switzerland id
+658	facet of
+659	titl
+660	voice actor
+661	affiliatio
+662	pers\u00e9e author id
+663	nara person id
+664	github usernam
+665	bvmc person id
+666	connecting servic
+667	tate artist identifier
+668	file extensio
+669	mep directory id
+670	isni
+671	official languag
+672	latvian toponymic names database id
+673	great russian encyclopedia online id
+674	work period start
+675	dnf person id
+676	dvn id
+677	followed by
+678	j paul getty museum artist id
+679	input devic
+680	m49 cod
+681	allegianc
+682	gnd id
+683	fide id
+684	norwegian municipality number
+685	floruit
+686	production designer
+687	nukat warsawu authorities
+688	allocin\u00e9 movie id
+689	separated from
+690	influenced by
+691	bbc news democracy live id
+692	dharma drum buddhist college place id
+693	distributio
+694	swiss parliament id
+695	opencritic id
+696	position held
+697	fis alpine skier id
+698	uic numerical country cod
+699	wta id
+700	iata airline designator
+701	bibsys id
+702	chief operating officer
+703	prdl author id
+704	father
+705	noble family
+706	series
+707	genealogicsorg person id
+708	smithsonian american art museum: person/institution thesaurus id
+709	openpolis id
+710	munzinger iba
+711	national football teamscom player id
+712	secondhandsongs song id
+713	eligible voters
+714	nlp id
+715	coam id
+716	number of pages
+717	donated by
+718	moma artwork id
+719	iso 3166 1 alpha 3 cod
+720	executive producer
+721	banque de noms de lieux du qu\u00e9bec id
+722	station cod
+723	wals lect cod
+724	located in the administrative territorial entity
+725	slovenska biografija id
+726	iso 3166 1 numeric cod
+727	allmusic album id
+728	place of publicatio
+729	cbs municipality cod
+730	spotify album id
+731	rkdartists id
+732	belgian football id
+733	drafted by
+734	hds id
+735	they work for you id
+736	turkish football federation player id
+737	distributor
+738	road number
+739	skyscraper center id
+740	l\u00e9onore id
+741	cths person id
+742	iswc
+743	time of discovery
+744	commander of
+745	cvr number
+746	biblioteca nacional de chile catalogue number
+747	sikart
+748	swedish urban area cod
+749	sudoc editions
+750	university of barcelona authority id
+751	catholicru id
+752	based o
+753	described at url
+754	pleiades place type identifier
+755	ballots cast
+756	published i
+757	kulturnav id
+758	sandre id
+759	box office mojo film id
+760	maintained by
+761	name in native languag
+762	national thesaurus for author names id
+763	baseball referencecom major league player id
+764	moviemeter director id
+765	dblp pid
+766	business divisio
+767	anime news network anime id
+768	maximum operating altitud
+769	hungarian company id
+770	enciclop\u00e9dia a\u00e7oriana id
+771	kinenote film id
+772	students count
+773	os grid referenc
+774	gnis id
+775	name assigning authority number
+776	ballotpedia id
+777	date of death
+778	\u010csfd person id
+779	ncl id
+780	metrolyrics id
+781	owned by
+782	first performanc
+783	dbnl author id
+784	bncf thesaurus
+785	operator
+786	opensecrets identifier
+787	language of work or nam
+788	shares border with
+789	scheduled service destinatio
+790	open food facts food category slug
+791	pcp reference number
+792	oktmo id
+793	wine appdb id
+794	iso 9362 swift/bic cod
+795	place of birth
+796	isfdb author id
+797	nlr romania id
+798	italian cadastre cod
+799	ipa transcriptio
+800	msbi person id
+801	sport number
+802	latvian olympic committee athlete id
+803	internet broadway database person id
+804	wingspa
+805	itunes album id
+806	date of taxon name publicatio
+807	number of seasons
+808	ihsi id
+809	twitter usernam
+810	feed url
+811	employer
+812	kansallisbiografia id
+813	duratio
+814	patron saint
+815	deezer artist id
+816	digital atlas of the roman empire id
+817	ndl id
+818	age of consent
+819	named after
+820	modelscom client id
+821	dedicated to
+822	animatorru film id
+823	academianet
+824	dmoz id
+825	bmlo
+826	applies to part
+827	biblionet author id
+828	mouth of the watercours
+829	six degrees of francis bacon id
+830	snapchat usernam
+831	diseasesdb
+832	musicbrainz label id
+833	mlssoccercom id
+834	gtaa id
+835	e mail
+836	genealogical gazetteer gov id
+837	politifact personality id
+838	lakes on river
+839	doctoral advisor
+840	catalogus professorum academiae rheno traiectinae id
+841	atp id
+842	nara geographic id
+843	fashion model directory model id
+844	nsdap membership number 1925\u20131945
+845	issn
+846	sister city
+847	period
+848	pag
+849	floors below ground
+850	maritime identification digits
+851	ine municipality cod
+852	given nam
+853	maximum strahler number
+854	record label
+855	b sid
+856	part of
+857	film editor
+858	volume as quantity
+859	average shot length
+860	patro
+861	conferred by
+862	has part
+863	open hub id
+864	basketball referencecom nba player id
+865	armament
+866	perimeter
+867	insee department cod
+868	foursquare venue id
+869	lau
+870	ulan id
+871	librivox author id
+872	composer
+873	catalogus professorum academiae groninganae id
+874	participant
+875	allmusic artist id
+876	great aragonese encyclopedia id
+877	biblionet publisher id
+878	fashion model directory designer id
+879	musopen composer id
+880	smdb id
+881	internet archive id
+882	height
+883	perlentaucher id
+884	nlc authorities
+885	party chief representativ
+886	editor
+887	projeto excel\u00eancias id
+888	chemins de m\u00e9moire id
+889	wing area
+890	maximum number of players
+891	atvk id
+892	gui toolkit or framework
+893	singles record
+894	spotify artist id
+895	religio
+896	fisa id
+897	administrative code of indonesia
+898	genicom profile id
+899	glottolog cod
+900	ipi number
+901	head of government
+902	life expectancy
+903	cast member
+904	google knowledge graph identifier
+905	philippine standard geographic cod
+906	official blog
+907	global anabaptist mennonite encyclopedia online id
+908	national gallery of victoria artist id
+909	thailand central administrative unit cod
+910	openstreetmap relation identifier
+911	official websit
+912	student
+913	steam application id
+914	stack exchange tag
+915	oclc control number
+916	united world wrestling id
+917	programming languag
+918	nszl id
+919	cost
+920	place of origin switzerland
+921	heidelberg academy for sciences and humanities member id
+922	net worth estimat
+923	located in protected area
+924	open library id
+925	gost 775 97 cod
+926	mactutor id biographies
+927	parliamentuk id
+928	skyscraper center building complex id
+929	chess games id
+930	swiss municipality cod
+931	phone number
+932	wikisource index pag
+933	lcoc lccn bibliographic
+934	c span person id
+935	relativ
+936	adjacent statio
+937	number of processor cores
+938	musicbrainz work id
+939	s\u00e4chsische biografi
+940	undp country cod
+941	megogo id
+942	allmusic song id
+943	nsk id
+944	nis/ins cod
+945	sfdb person id

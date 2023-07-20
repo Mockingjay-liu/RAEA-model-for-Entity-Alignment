@@ -1,0 +1,64 @@
+0	currency
+1	expenses
+2	pref label
+3	born date
+4	married to
+5	edited
+6	inflation
+7	happened date
+8	influences
+9	neighbor
+10	area
+11	acted in
+12	known for
+13	connected to
+14	label
+15	works at
+16	imdb
+17	motto
+18	export
+19	destroyed date
+20	happened in
+21	academic advisor
+22	graduated from
+23	height
+24	import
+25	created date
+26	created
+27	population density
+28	length
+29	plays for
+30	poverty
+31	gini
+32	airport code
+33	located in
+34	died in
+35	won prize
+36	died date
+37	leader of
+38	owns
+39	unemployment
+40	redirected from
+41	politician of
+42	long
+43	deals with
+44	child
+45	born in
+46	affiliated to
+47	tld
+48	pages
+49	capital
+50	lives in
+51	interested in
+52	weight
+53	number of people
+54	revenue
+55	lat
+56	citizen of
+57	wrote music for
+58	budget
+59	directed
+60	gdp
+61	economic growth
+62	duration
+63	participated in

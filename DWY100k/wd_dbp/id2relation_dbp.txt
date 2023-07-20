@@ -1,0 +1,686 @@
+0	other
+1	latest preview version
+2	area land
+3	district
+4	source elevation
+5	nla id
+6	road start direction
+7	deputy
+8	lowest mountain
+9	is part of military conflict
+10	source confluence
+11	source confluence mountain
+12	bar pass rate
+13	county seat
+14	ideology
+15	region
+16	source place
+17	speed limit
+18	speaker
+19	government place
+20	editor
+21	maximum depth
+22	river mouth
+23	institution
+24	target airport
+25	dissolution date
+26	serving railway line
+27	child
+28	film director
+29	band member
+30	number of spans
+31	dissolved
+32	highest state
+33	significant building
+34	setting of play
+35	associate
+36	largest city
+37	national topographic system map number
+38	manufacturer
+39	operator
+40	year of electrification
+41	beatified place
+42	designer
+43	frequency
+44	operatedby
+45	added
+46	number of members
+47	latest release version
+48	part
+49	production end year
+50	draft round
+51	engineer
+52	slogan
+53	source mountain
+54	inflow
+55	minimum temperature
+56	seating capacity
+57	bed count
+58	department
+59	minimum elevation
+60	record date
+61	saint
+62	daylight saving time zone
+63	year of construction
+64	number of seasons
+65	dissolution year
+66	parent company
+67	certification date
+68	unit cost
+69	predecessor
+70	cover artist
+71	revenue
+72	lieutenant
+73	owning company
+74	county
+75	beatified date
+76	number of piers in water
+77	railway platforms
+78	music composer
+79	source country
+80	distributor
+81	person
+82	jurisdiction
+83	voice
+84	active years start year
+85	motto
+86	aircraft attack
+87	formation date
+88	right tributary
+89	iso region code
+90	international affiliation
+91	service end year
+92	writer
+93	publicly accessible
+94	subsequent work
+95	number of graduate students
+96	mouth place
+97	executive producer
+98	poles
+99	area metro
+100	principal area
+101	order in office
+102	developer
+103	number of students
+104	notableidea
+105	location
+106	training
+107	route start
+108	number built
+109	opening date
+110	first game
+111	species
+112	government elevation
+113	previous event
+114	average depth
+115	fastest lap
+116	album
+117	lower age
+118	body style
+119	width
+120	arrondissement
+121	bnf id
+122	endowment
+123	participant
+124	number of islands
+125	first publication date
+126	mascot
+127	legislative period name
+128	associated musical artist
+129	author
+130	issn
+131	year
+132	sport
+133	lccn id
+134	latest release date
+135	faculty size
+136	bibsys id
+137	lyrics
+138	translator
+139	role
+140	election date leader
+141	religion
+142	official language
+143	name
+144	residence
+145	political party of leader
+146	service number
+147	military rank
+148	source confluence place
+149	series
+150	non-fiction subject
+151	date of burial
+152	parent mountain peak
+153	a side
+154	certification
+155	quote
+156	trainer
+157	census year
+158	disbanded
+159	assets
+160	active years
+161	gross domestic product
+162	surface of runway
+163	provost
+164	based on
+165	municipality code
+166	format
+167	position
+168	source confluence elevation
+169	colour name
+170	timeshift channel
+171	maintained by
+172	nick
+173	background
+174	game artist
+175	distributing label
+176	region served
+177	game engine
+178	fuel capacity
+179	width quote
+180	pseudonym
+181	foundation place
+182	b side
+183	following event
+184	number of stations
+185	mba id
+186	debut team
+187	mouth region
+188	date of abandonment
+189	campus size
+190	time
+191	school code
+192	owner
+193	title
+194	child organisation
+195	area code
+196	broadcast station class
+197	postal code
+198	grid reference
+199	debut
+200	builder
+201	broadcast area
+202	ethnic group
+203	publisher
+204	major shrine
+205	election majority
+206	season
+207	leader
+208	maximum elevation
+209	european parliament group
+210	population rural
+211	merged into party
+212	hair color
+213	year of first ascent
+214	access
+215	completion date
+216	area water
+217	road end direction
+218	operating income
+219	iata location identifier
+220	home arena
+221	episode number
+222	body discovered
+223	canton
+224	gross
+225	source
+226	notable work
+227	longtype
+228	university
+229	channel
+230	longname
+231	subtitle
+232	appointer
+233	influenced by
+234	major island
+235	doctoral advisor
+236	government type
+237	owning organisation
+238	strength
+239	influenced
+240	crosses
+241	photographer
+242	united states national bridge id
+243	wheelbase
+244	number of undergraduate students
+245	height
+246	party
+247	number of tracks
+248	ethnicity
+249	province
+250	internationally
+251	aircraft fighter
+252	field
+253	incumbent
+254	birth year
+255	recorded in
+256	municipality
+257	death year
+258	movement
+259	parent
+260	production start year
+261	battle honours
+262	status
+263	automobile platform
+264	wha draft
+265	border
+266	academic advisor
+267	founder
+268	team
+269	races
+270	occupation
+271	salary
+272	billed
+273	waist size
+274	share source
+275	isbn
+276	elevation
+277	age range
+278	birth name
+279	production start date
+280	oversight
+281	island
+282	canonized date
+283	college
+284	budget
+285	classes
+286	founded by
+287	opponent
+288	draft team
+289	formation year
+290	mainspan
+291	number of staff
+292	icao location identifier
+293	alma mater
+294	nationality
+295	territory
+296	city
+297	broadcast network
+298	staff
+299	area total
+300	maximum temperature
+301	population urban density
+302	nuts code
+303	depiction description
+304	iata code
+305	profession
+306	assembly
+307	iucn category
+308	instrument
+309	fare zone
+310	opening theme
+311	population metro density
+312	stadium
+313	record label
+314	vice president
+315	first air date
+316	mouth country
+317	creative director
+318	membership
+319	track length
+320	place of military conflict
+321	active years end date
+322	capital
+323	discharge average
+324	taoiseach
+325	designer company
+326	spokesperson
+327	closing date
+328	floor count
+329	floor area
+330	icao code
+331	performer
+332	meaning
+333	cinematography
+334	associated band
+335	government region
+336	seniority
+337	known for
+338	tenant
+339	extinction date
+340	leader title
+341	route number
+342	last publication date
+343	genre
+344	państwo
+345	prominence
+346	government mountain
+347	sister station
+348	left tributary
+349	synonym
+350	guest
+351	production
+352	former name
+353	active years start date
+354	product
+355	founding year
+356	starring
+357	supplemental draft year
+358	twin country
+359	share of audience
+360	givenname
+361	eruption date
+362	patron
+363	team name
+364	programming language
+365	average class size
+366	prime minister
+367	upper age
+368	anniversary
+369	publication date
+370	rebuilding date
+371	last election date
+372	population place
+373	headquarter
+374	creator
+375	related mean of transportation
+376	archipelago
+377	number of volumes
+378	highest region
+379	ethnic groups in year
+380	label
+381	resting place
+382	number of postgraduate students
+383	lowest place
+384	education
+385	weight
+386	dewey decimal classification
+387	number of pages
+388	draft year
+389	chairman
+390	ending theme
+391	current season
+392	number of employees
+393	oclc
+394	watershed
+395	canonized place
+396	size
+397	former band member
+398	imdb id
+399	death place
+400	nearest city
+401	character in play
+402	presenter
+403	combatant
+404	federal state
+405	ground
+406	population density
+407	capital place
+408	plays
+409	composer
+410	spouse
+411	operating system
+412	shore length
+413	lounge
+414	partner
+415	league
+416	administrative district
+417	flag
+418	iso 639-1 code
+419	bust size
+420	office
+421	subdivisions
+422	type
+423	location city
+424	government country
+425	located in area
+426	committee
+427	date
+428	current member
+429	total population
+430	chancellor
+431	musical artist
+432	map
+433	beltway city
+434	number of films
+435	rebuilding year
+436	signature
+437	alumni
+438	city type
+439	lcc
+440	transmission
+441	parent organisation
+442	number of doctoral students
+443	head label
+444	battle
+445	other serving lines
+446	leader name
+447	origin
+448	compiler
+449	frequently updated
+450	route junction
+451	career prize money
+452	description
+453	circulation
+454	service start year
+455	capital elevation
+456	nrhp reference number
+457	language
+458	computing platform
+459	geology
+460	relation
+461	manager club
+462	number of episodes
+463	population metro
+464	music by
+465	model start year
+466	capital mountain
+467	license
+468	asset under management
+469	utc offset
+470	area rural
+471	time zone
+472	fansgroup
+473	route type abbreviation
+474	school number
+475	line length
+476	image size
+477	address
+478	coach
+479	division
+480	demonym
+481	maximum discharge
+482	birth place
+483	associated act
+484	related
+485	building end date
+486	last appearance
+487	building start date
+488	animator
+489	network
+490	fees
+491	governor general
+492	doctoral student
+493	population urban
+494	first appearance
+495	source region
+496	demolition date
+497	governing body
+498	split from party
+499	highschool
+500	garrison
+501	undrafted year
+502	capacity
+503	country
+504	minimum discharge
+505	capital region
+506	state of origin
+507	source confluence region
+508	capital country
+509	service
+510	family
+511	manager
+512	championships
+513	track number
+514	military command
+515	editing
+516	death date
+517	iso 639-3 code
+518	day
+519	place of burial
+520	election date
+521	portfolio
+522	ceeb
+523	podiums
+524	current status
+525	chairperson
+526	code
+527	other party
+528	rival
+529	affiliation
+530	total population ranking
+531	share date
+532	neighboring municipality
+533	insee code
+534	birth date
+535	editor title
+536	feast day, holiday
+537	toll
+538	geologic period
+539	description
+540	area
+541	distributing company
+542	number of visitors
+543	national affiliation
+544	anthem
+545	extinction year
+546	illustrator
+547	distance to london
+548	official school colour
+549	company
+550	release date
+551	showjudge
+552	campus
+553	state
+554	key person
+555	campus type
+556	death cause
+557	intercommunality
+558	identification symbol
+559	discharge
+560	frozen
+561	facility id
+562	net income
+563	twin city
+564	secondleader
+565	command structure
+566	house
+567	military unit
+568	length of runway
+569	award
+570	narrator
+571	architect
+572	citizenship
+573	number of volunteers
+574	hub airport
+575	dean
+576	production end date
+577	metropolitan borough
+578	lowest
+579	diameter
+580	chairman title
+581	iso 639-2 code
+582	start date
+583	material
+584	cost
+585	spoken in
+586	mayor
+587	shoots
+588	length
+589	picture
+590	military unit size
+591	river
+592	purpose
+593	military branch
+594	former team
+595	faa location identifier
+596	board
+597	successor
+598	digital channel
+599	alias
+600	subsidiary
+601	area of catchment
+602	wins
+603	closed
+604	eye color
+605	percentage of area water
+606	number of teams
+607	population as of
+608	networth
+609	firstleader
+610	equity
+611	commander
+612	designation of runway
+613	rector
+614	european affiliation
+615	head
+616	philosophicalschool
+617	mouth mountain
+618	largest settlement
+619	outflow
+620	monarch
+621	currency
+622	portrayer
+623	governor
+624	shoe size
+625	used in war
+626	hall of fame
+627	last air date
+628	volume
+629	management elevation
+630	political party in legislature
+631	aircraft transport
+632	sister college
+633	language regulator or academy
+634	tuition
+635	manager title
+636	president
+637	founding date
+638	cpu
+639	leader party
+640	relative
+641	opening year
+642	runtime
+643	calculationneeds
+644	notable student
+645	number of locations
+646	route end
+647	mouth elevation
+648	notes
+649	musical band
+650	number
+651	mountain range
+652	frazioni
+653	season number
+654	premiere place
+655	vehicles per day
+656	hip size
+657	home town
+658	allegiance
+659	model end year
+660	supplemental draft round
+661	fate
+662	bridge carries
+663	active years end year
+664	employer
+665	notable commander
+666	previous work
+667	source confluence state
+668	producer
+669	viaf id
+670	school
+671	result
+672	individualised gnd number
+673	population total
+674	ranking
+675	premiere year
+676	is part of
+677	draft
+678	area urban
+679	abbreviation
+680	draft pick
+681	causalties
+682	significant project
+683	building start year
+684	secretary
+685	main interest
