@@ -2,7 +2,9 @@
 This is the Pytorch implementation for our paper at World Wide Web 2023: **Cross-platform productmatching based on entity alignment of knowledge graph with raea model**. https://doi.org/10.1007/s11280-022-01134-y
 
 ## Run RAEA
-First train the RAEA model on the DBP15k/zh_en dataset with default hyperparameters: `python train_subgraph.py`. The trained models of defferent channels will be saved.
+First pre-train the encoder with unsupervised SimCSE: ""
+
+Next, train the RAEA model on the DBP15k/zh_en dataset with default hyperparameters: `python train_subgraph.py`. The trained models of defferent channels will be saved.
 
 Then, ensemble the channels and valid the performance on the test set: `python ensemble_subgraphs.py`
 
