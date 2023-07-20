@@ -10,7 +10,7 @@ Next, train the RAEA model on the DBP15k/zh_en dataset: `python train_subgraph.p
 
 Then, ensemble the channels and valid the performance on the test set: `python ensemble_subgraphs.py`
 
-The hyperparameters we use are set to the default value.
+The hyperparameters we use are set to the default values.
 
 You can change the value of hyperparameters. For example, the command for training `python train_subgraph.py --dataset DBP15k/zh_en --gpu_id 0 --nega_sample_num 15` defines the `dataset`, `gup_id` and `nega_sample_num` 
 
